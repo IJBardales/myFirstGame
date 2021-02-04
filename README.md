@@ -1,6 +1,6 @@
 # JavaScript Game
 
-## A JavaScript Game by IJBardales
+A JavaScript Game by IJBardales
 
 ## Generated from Webpack Frontend Starterkit
 
