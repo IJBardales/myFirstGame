@@ -1,7 +1,7 @@
 {
-    "name": "bolierplate-game",
+    "name": "myFirstGame",
     "version": "1.0.0",
-    "description": "A simplified game boilerplate",
+    "description": "A JavaScript Game by IJBardales",
     "scripts": {
         "build": "cross-env NODE_ENV=production webpack --config webpack/webpack.config.prod.js --colors",
         "start": "webpack-dev-server --open --config webpack/webpack.config.dev.js",
@@ -9,7 +9,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/mgraphic/Javascript-Game-Boilerplate"
+        "url": "git+https://github.com/IJBardales/myFirstGame"
     },
     "keywords": [
         "webpack",
@@ -19,7 +19,7 @@
         "javascript",
         "webdev"
     ],
-    "author": "mgraphic",
+    "author": "IJBardales",
     "license": "MIT",
     "bugs": {
         "url": "https://github.com/wbkd/webpack-starter/issues"
