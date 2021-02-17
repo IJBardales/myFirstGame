@@ -28,6 +28,7 @@
         "@babel/polyfill": "^7.10.4",
         "browser-detect": "^0.2.28",
         "core-js": "^3.6.5",
+        "express": "^4.17.1",
         "minireset.css": "0.0.6"
     },
     "devDependencies": {
